@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaCHW&count_private=true)
+![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaCHW&count_private=true&hide=issues&theme=dracula)
 
 
 
