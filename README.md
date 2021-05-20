@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaCHW&count_private=true&hide=issues&theme=dracula)
-
-
 
 <!--
 **VanessaCHW/VanessaCHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
